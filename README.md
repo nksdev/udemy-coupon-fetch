@@ -1,6 +1,6 @@
 # 🎟️ Coupon Link Finder
 
-![Coupon Link Finder](https://via.placeholder.com/800x300?text=Coupon+Link+Finder)
+# just add a website and it automatically fetch all link from that website.
 
 ## 🔥 Introduction
 
